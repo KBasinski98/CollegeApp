@@ -28,6 +28,8 @@ public class ApplicantActivity extends ActionBarActivity {
     private CharSequence mTitle;
     private ListView mDrawerList;
 
+    //3rd hour commit example
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
